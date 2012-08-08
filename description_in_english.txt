@@ -1,0 +1,5 @@
+node.js server (S) contacting client (C)
+
+C POST ajax with DATA searchstring (words separated by spaces)
+S send to redis (words separated by * and in all possible orders)
+

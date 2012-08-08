@@ -1,0 +1,8 @@
+{
+"name": "icdnow",
+"version": "0.0.1",
+"dependencies": {
+    "redis": ">=0.6.7",
+    "redback": ">=0.2.7"
+  }
+}

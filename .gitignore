@@ -1,0 +1,5 @@
+node_modules
+nginx_access.log
+nginx_error.log
+.DS_Store
+*.swp
